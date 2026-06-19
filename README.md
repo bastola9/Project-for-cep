@@ -10,3 +10,11 @@
 ### AI ethics 
 
 ![ai ethics](researches/image.png)
+
+
+### Team Contributions
+* **Abeson Seundede Rodney 101400265
+    * Conducted research on Algorithmic Bias and the "Black Box" problem in AI.
+    * Drafted the "Developer's Role" section of the video script.
+    * Managed the GitHub repository workflow, including branch creation, commit management, and Pull Request coordination.
+    * Designed the visual slides for the video presentation.
