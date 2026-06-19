@@ -5,3 +5,4 @@
 
 ## the topic is Ethics of AI in Software Development
 
+![ai ethics](researches/image.png)
