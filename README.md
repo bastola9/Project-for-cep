@@ -30,7 +30,7 @@ this is one funny skit about ai when the ethics were not that strong
    it will help in coding but it will straight up reject the direct things i want to say
    ![it shows the warning](image/image.png)
    ai also itself says i cannot step further than that
-   ![when it tells me to stop](image/image2.png)
+  -  ![when it tells me to stop](image/image2.png)
 
 
 ### Team Contributions
