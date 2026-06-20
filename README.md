@@ -23,7 +23,7 @@
    but there are cases where people were scammed using chatgpt
    yes!!!!!  chatgpt coding 
    there were a lot of news back in days 
-   this is one funny skit about ai when the ethics were not that strong
+   this is one funny skit about ai when the ethics were not that strong( i do not own this video )
    : https://youtube.com/shorts/9eO-LqtoGps?si=TSFTi9Xp_XGmfS5f
 
    but now when i try to say anything the ai will reject it.
