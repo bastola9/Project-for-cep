@@ -8,7 +8,7 @@
 [introduction to ai in software development](https://github.com/bastola9/Project-for-cep/blob/nayan/researches/ai%20%20in%20software%20introduction)
 
 ### AI ethics 
-[information and introduction of ai ethics](researches/AI eithcs w)
+[information and introduction of ai ethics](https://github.com/bastola9/Project-for-cep/blob/20d21350f99be330e9e12d27f2f1ffbd6ec9d166/researches/AI%20eithcs%20w)
 
 ![ai ethics](researches/image.png)
 
