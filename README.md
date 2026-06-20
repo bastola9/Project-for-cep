@@ -10,6 +10,9 @@
 ### AI ethics 
 [information and introduction of ai ethics](https://github.com/bastola9/Project-for-cep/blob/20d21350f99be330e9e12d27f2f1ffbd6ec9d166/researches/AI%20eithcs%20w)
 
+### KEY ai ethics 
+[ some info about ai ethics](https://github.com/bastola9/Project-for-cep/blob/16a30f12205007a7a84ec47b89d5e86e52deeb30/researches/the%20key%20AI%20ethics)
+
 ![ai ethics](researches/image.png)
 
 
