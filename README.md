@@ -35,6 +35,12 @@ this is one funny skit about ai when the ethics were not that strong
    >  ![when it tells me to stop](image/image2.png)
 
 
+### Conclusion 
+> We are at an inflection point.
+> The decisions being made today about how AI is built and governed will echo for generations.( **Really hope canada goverment impliments some rule** )
+>  AI ethics is not a box to check or a public relations exercise it is a genuine, ongoing commitment to ensuring that one of the most powerful technologies in human history serves human flourishing rather than undermining it.
+The conversation is not easy. The answers are rarely simple. But asking the right questions, honestly and courageously, is where it all begins.
+
 ### Team Contributions
 #### **Abeson Seundede Rodney 101400265**
     * Conducted research on Algorithmic Bias and the "Black Box" problem in AI.
