@@ -16,6 +16,20 @@
 ![ai ethics](researches/image.png)
 
 
+
+### Examples 
+1. code example.
+   due to recent changes in ethic this is no longer possible
+but there are cases where people were scammed using chatgpt
+yes!!!!!  chatgpt coding 
+there were a lot of news back in days 
+this is one funny skit about ai when the ethics were not that strong
+: https://youtube.com/shorts/9eO-LqtoGps?si=TSFTi9Xp_XGmfS5f
+
+but now when i try to say anything the ai will reject it.
+it will help in coding but it will straight up reject the direct things i want to say
+![it shows the warning](image/image.png)
+
 ### Team Contributions
 #### **Abeson Seundede Rodney 101400265**
     * Conducted research on Algorithmic Bias and the "Black Box" problem in AI.
